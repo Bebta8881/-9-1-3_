@@ -9,7 +9,7 @@
   },
   "inbounds": [
     {
-      "tag": "in-s3k1gl",
+      "tag": "in-0c4bge",
       "port": 10808,
       "listen": "127.0.0.1",
       "protocol": "mixed",
@@ -30,7 +30,7 @@
   ],
   "outbounds": [
     {
-      "tag": "proxy",
+      "tag": "🇫🇮 ЛАПА СТАБИЛНАЯ",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -109,7 +109,7 @@
       {
         "network": "tcp",
         "port": "853",
-        "outboundTag": "proxy",
+        "outboundTag": "🇫🇮 ЛАПА СТАБИЛНАЯ",
         "type": "field"
       },
       {
@@ -130,7 +130,7 @@
         "inboundTag": [
           "dns"
         ],
-        "outboundTag": "proxy",
+        "outboundTag": "🇫🇮 ЛАПА СТАБИЛНАЯ",
         "type": "field"
       }
     ]
